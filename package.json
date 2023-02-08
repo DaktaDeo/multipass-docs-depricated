@@ -5,6 +5,7 @@
     },
     "scripts": {
         "start": "npm run docs:dev",
+        "dev": "npm run docs:dev",
         "docs:build": "vuepress build",
         "docs:dev": "vuepress dev"
     }
